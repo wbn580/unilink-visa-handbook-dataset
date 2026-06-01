@@ -1,0 +1,54 @@
+{
+  "generated_at": "2026-05-31T08:33:19.082579+00:00",
+  "countries": {
+    "au": {
+      "chunks": 297,
+      "estimated_tokens": 66867,
+      "total_chars": 267469
+    },
+    "ca": {
+      "chunks": 433,
+      "estimated_tokens": 121440,
+      "total_chars": 485760
+    },
+    "hk": {
+      "chunks": 203,
+      "estimated_tokens": 82831,
+      "total_chars": 331324
+    },
+    "jp": {
+      "chunks": 161,
+      "estimated_tokens": 63585,
+      "total_chars": 254342
+    },
+    "my": {
+      "chunks": 26,
+      "estimated_tokens": 10329,
+      "total_chars": 41318
+    },
+    "nz": {
+      "chunks": 510,
+      "estimated_tokens": 138301,
+      "total_chars": 553206
+    },
+    "uk": {
+      "chunks": 290,
+      "estimated_tokens": 82792,
+      "total_chars": 331170
+    },
+    "us": {
+      "chunks": 568,
+      "estimated_tokens": 210334,
+      "total_chars": 841337
+    }
+  },
+  "totals": {
+    "chunks": 2488,
+    "estimated_tokens": 776479,
+    "total_chars": 3105926
+  },
+  "quality": {
+    "errors": 0,
+    "redline_flagged": 0
+  }
+}
